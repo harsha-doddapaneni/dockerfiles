@@ -5,4 +5,4 @@ ARG course="DevOps with AWS" \
 ENV duration=$duration
 RUN echo "Course: $course, duration: $duration, version: $version"
 CMD ["sleep","100"]
-             
+              
