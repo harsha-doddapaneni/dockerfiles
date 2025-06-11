@@ -1,5 +1,4 @@
 FROM almalinux:9
 ENV couse="Devops with aws" \
-    tainer="sivakumar" \
+    trainer="harsha" \
     duration="120hrs"
-    
