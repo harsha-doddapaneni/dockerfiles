@@ -1,10 +1,4 @@
 FROM almalinux:9
-LABEL author="sivakumar" \
-      company="joindevops" \
-      topic="dockerfiles" \
-      duration="2hrs"
-
-FROM almalinux:9
 LABEL author="harsha" \
       topic="docker files" \
       duration="120 hrs"
